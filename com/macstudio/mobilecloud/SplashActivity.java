@@ -1,14 +1,3 @@
-/*
- * Decompiled with CFR <Could not determine version>.
- * 
- * Could not load the following classes:
- *  android.app.Activity
- *  android.content.Context
- *  android.content.Intent
- *  android.os.Bundle
- *  android.os.Handler
- *  android.view.Window
- */
 package com.macstudio.mobilecloud;
 
 import android.app.Activity;
