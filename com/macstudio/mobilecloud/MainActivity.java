@@ -1,36 +1,3 @@
-/*
- * Decompiled with CFR <Could not determine version>.
- * 
- * Could not load the following classes:
- *  android.app.ProgressDialog
- *  android.content.Context
- *  android.content.Intent
- *  android.content.res.AssetManager
- *  android.content.res.Resources
- *  android.graphics.Typeface
- *  android.net.Uri
- *  android.net.Uri$Builder
- *  android.os.AsyncTask
- *  android.os.Bundle
- *  android.os.Handler
- *  android.text.Editable
- *  android.util.Log
- *  android.view.LayoutInflater
- *  android.view.Menu
- *  android.view.MenuInflater
- *  android.view.View
- *  android.view.View$OnClickListener
- *  android.view.ViewGroup
- *  android.view.ViewPropertyAnimator
- *  android.view.Window
- *  android.view.animation.Animation
- *  android.view.animation.AnimationUtils
- *  android.widget.Button
- *  android.widget.EditText
- *  android.widget.ImageView
- *  android.widget.TextView
- *  android.widget.Toast
- */
 package com.macstudio.mobilecloud;
 
 import android.app.ProgressDialog;
