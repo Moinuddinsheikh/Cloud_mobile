@@ -1,14 +1,3 @@
-/*
- * Decompiled with CFR <Could not determine version>.
- * 
- * Could not load the following classes:
- *  android.content.ContentValues
- *  android.content.Context
- *  android.database.Cursor
- *  android.database.sqlite.SQLiteDatabase
- *  android.database.sqlite.SQLiteDatabase$CursorFactory
- *  android.database.sqlite.SQLiteOpenHelper
- */
 package com.macstudio.mobilecloud;
 
 import android.content.ContentValues;
