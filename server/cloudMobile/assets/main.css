@@ -1,0 +1,110 @@
+#files_body{
+   	background-color: #9ADDFA;
+	margin: 5%;
+}
+#table{
+    background: white;
+	border-radius: 15px;
+	box-shadow: 5px 5px 8px 1px grey;
+}
+thead td{
+	font-weight: bold;
+}
+td{
+   	text-align: center;
+}
+a{
+	text-decoration: none;
+  	color: black;
+}
+#upload{
+	cursor: pointer;
+}
+#index_body{
+   	background-color: #9ADDFA;
+    padding: 2%;
+}
+.index_comp{
+    position:absolute;
+    display: block;
+}
+#logo{
+    width: 7.5%;
+    margin-left: 3%;
+}
+#qr_btn{
+    height: 13%;
+    margin-left: 80%;
+    cursor: pointer;
+}
+#info_bg{
+    width: 42%;
+    margin-top: 8%;
+    margin-left: 2%;
+}
+#inst_bg{
+    width: 85%;
+    margin-top: 8%;
+    margin-left: 2%;
+}
+#illus{
+    height: 82%;
+    margin-left: 51%;
+    margin-top: 4%;
+}
+#info{
+    width: 25%;
+    margin-top: 13%;
+    margin-left: 9%;
+}
+#inst{
+    width: 40%;
+    margin-top: 14%;
+    margin-left: 13%;
+}
+#p1{
+    font-size: 2em;
+    font-weight: bold;
+}
+#p2{
+    font-size: 1.2em;
+}
+#app_link{
+    margin-left: 64%;
+    margin-top: 2%;
+    font-size: 1.1em;
+    cursor: pointer;
+}
+#qr_img{
+    margin-top: 13%;
+    margin-left: 55%;
+}
+#qr_img, #inst_bg, #inst, #inst_cls{
+    display: none;
+}
+#inst_cls{
+    width: 2%;
+    margin-left: 80%;
+    margin-top: 10%;
+    cursor: pointer;
+}
+#upl_body{
+	height: 100%;
+	background: linear-gradient(210deg, rgb(157,195,230), rgb(166,107,211));
+	margin: 5%;
+}
+#file_input{
+	margin-top: 45%;
+    margin-left: 35%;
+}
+#form_btn{
+	background: #f7927b;
+    border: 1px solid transparent;
+	border-radius: 8px;
+	height: 6%;
+    width: 35%;
+    margin-left: 33%;
+    margin-top: 40%;
+    display: block;
+	box-shadow: 2px 2px 6px 1px gray;
+}

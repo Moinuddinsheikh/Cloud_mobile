@@ -1,0 +1,20 @@
+<html>
+
+<head>
+    <title>cloudMobile</title>
+    <link rel="stylesheet" href="assets/main.css">
+    <script src="assets/main.js"></script>
+</head>
+
+<body id="upl_body">
+    <form action="get23.php" method="post" enctype="multipart/form-data">
+      <input id="currun" type="hidden" name="username" >  
+      <input type="hidden" name="action" value="recv_file">
+      <input id="file_input" style="height:30px;" type="file" name="mfile" />
+        <br>
+        <br><br>
+        <button id="form_btn" class="btn btn-primary" type="submit">Upload file</button>
+    </form>
+</body>
+
+</html>
