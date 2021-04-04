@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR <Could not determine version>.
- */
 package com.macstudio.mobilecloud;
 
 public final class R {
