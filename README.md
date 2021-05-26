@@ -10,9 +10,10 @@ An invisible storage present in your mobile accessible from any device. Add any 
 * Once uploaded, files are consistent until deleted.
 
 ## Technologies used: 
-    1. Android Studio
-    2. Web Development
-    3. AWS EC2 instances
+1. Android Studio - Java
+2. Web Development
+3. PHP
+4. AWS
 
 ## Screenshots
 
